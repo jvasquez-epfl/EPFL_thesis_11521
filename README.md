@@ -13,4 +13,5 @@ Laser controller and CAN
 6. can interface.h --> CAN interface code h file
 
 User interface and image acquisition
-7.
+7. config_test_github.py --> user interface configuration code
+8. cell_stopping_jose_proto_2.py --> cell stopping coordination and image acquistion code
