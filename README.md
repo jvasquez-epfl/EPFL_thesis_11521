@@ -8,10 +8,12 @@ Image processing and analysis code
 3. model_classification_senes.ipynb --> code with the phenotypic feature extraction and the logistic regression, XGB, and ResNet18 models
 
 Laser controller and CAN
+
 4. main.c --> code to run the laser controllers
 5. can_interface.c --> CAN interface code
 6. can interface.h --> CAN interface code h file
 
 User interface and image acquisition
+
 7. config_test_github.py --> user interface configuration code
 8. cell_stopping_jose_proto_2.py --> cell stopping coordination and image acquistion code
